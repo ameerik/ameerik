@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Ameer, and I am a Computer and Information Sciences Graduate interested in all things Python and Data Science!
+My name is Ameer, and I am pursuing my honours in Computer and Information Sciences. I am interested in all things Python and Data Science!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
