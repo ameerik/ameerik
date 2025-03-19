@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Ameer, and I am pursuing my honours in Computer and Information Sciences. I am interested in all things Python and Data Science!
+My name is Ameer, and I am pursuing my honours in Computer and Information Sciences. I am interested in all things AI and Tech related!
 
 <!--
 **ameerik/ameerik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
